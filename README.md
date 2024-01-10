@@ -7,3 +7,7 @@ The purpose of this challenge is to design tables to hold data from 6 fictional 
 
 Here is the Entity Relationship Diagram of the tables: 
 ![alt text](https://github.com/acedryden/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL%20ERD.png)
+
+Two SQL Query files are provided:
+1. EmployeeSQL Table Schemata is the data engineering for creating the 6 tables and importing each CSV file into its SQL table in PostGreSQL.
+2. EmployeeSQL data analysis queries is the data analysis conducted to answer the 8 listed questions.  
