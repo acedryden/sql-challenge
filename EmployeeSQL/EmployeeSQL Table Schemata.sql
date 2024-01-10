@@ -44,11 +44,3 @@ CREATE TABLE "salaries" (
 
 SELECT * FROM titles LIMIT 100
 
-
-
-
-
-
-
-
-
