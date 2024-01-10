@@ -6,4 +6,4 @@ The purpose of this challenge is to design tables to hold data from 6 fictional 
 3. Data Analysis - Using SQL, answer 8 questions on the data. 
 
 Here is the Entity Relationship Diagram of the tables: 
-!
+![alt text](https://github.com/acedryden/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL%20ERD.png)
